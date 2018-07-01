@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Clicker+Script');
 
 /* Type Selector */
+
 p {
   font-size: 1em;
   line-height: 1.5em;
@@ -18,3 +19,4 @@ figcaption {
 }
 
 /* Class Selector */
+
