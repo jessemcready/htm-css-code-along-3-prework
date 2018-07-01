@@ -28,3 +28,6 @@ figcaption {
 
 /* ID Selector */
 
+#logo {
+  background: aqua;
+}
